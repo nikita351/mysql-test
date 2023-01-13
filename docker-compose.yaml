@@ -11,5 +11,5 @@ services:
     - MYSQL_DATABASE=demodb
   apache:
     image: httpd
-  ubuntu:
+  linux:
     image: ubuntu
