@@ -13,3 +13,5 @@ services:
     image: httpd
   linux:
     image: ubuntu
+  busybox:
+    image: busybox
